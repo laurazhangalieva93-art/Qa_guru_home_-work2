@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/12345
+Hello py!
 *.py[codz]
 *$py.class 1123
 
