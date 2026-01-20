@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-Hello friends!
+Hello my friends!
 *.py[codz]
 *$py.class 1123
 
