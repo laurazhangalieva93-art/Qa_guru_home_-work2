@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/123
+world!
 *.py[codz]
 *$py.class 1123
 
